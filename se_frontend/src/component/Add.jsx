@@ -99,10 +99,10 @@ const Add = () => {
                                 type="submit"
                                 className="btn btn-primary"
                             >
-                                add
+                                add//
                             </button>
                             
-                            
+                        
                         </form>
                         
                     </div>
